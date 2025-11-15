@@ -7,8 +7,8 @@ Desain UI Input: Merancang dan mengimplementasikan tampilan layar (activity atau
 Pengambilan Input: Memastikan aplikasi dapat menangkap data yang diketik oleh pengguna secara akurat.
 Logika Penyimpanan Awal: Mengimplementasikan fungsi untuk menyimpan data catatan baru ke dalam database lokal (misalnya, SQLite atau Room Database di Android).
 Penanganan Error Pembuatan: Memastikan aplikasi memberikan umpan balik yang tepat jika proses pembuatan catatan gagal (misalnya, jika judul kosong).
-Abdul Halim (10222143) - Job: READ (Membaca/Menampilkan)
-2. Halim bertanggung jawab untuk mengambil dan menampilkan data catatan yang sudah disimpan di database kepada pengguna.
+1. Abdul Halim (10222143) - Job: READ (Membaca/Menampilkan)
+Halim bertanggung jawab untuk mengambil dan menampilkan data catatan yang sudah disimpan di database kepada pengguna.
 Jobdesk Spesifik:
 Integrasi Database Reading: Mengimplementasikan query database untuk mengambil daftar semua catatan atau catatan spesifik.
 Desain Tampilan Daftar (RecyclerView): Merancang bagaimana daftar catatan akan ditampilkan secara efisien (misalnya, menggunakan RecyclerView dan Adapter di Android Studio).
@@ -28,6 +28,7 @@ Implementasi Fungsi Hapus: Mengimplementasikan fungsi database yang menghapus ca
 Mekanisme Penghapusan UI: Merancang cara pengguna dapat menghapus catatan, seperti swipe-to-delete pada daftar, tombol hapus di layar detail, atau opsi menu konteks.
 Konfirmasi Pengguna (Confirmation Dialog): Memastikan ada dialog konfirmasi sebelum penghapusan permanen untuk mencegah penghapusan yang tidak disengaja.
 Refresh Tampilan: Memastikan tampilan daftar catatan diperbarui secara otomatis setelah sebuah catatan berhasil dihapus.
+
 Dengan pembagian tugas ini, setiap anggota tim memiliki fokus yang jelas pada satu aspek fundamental dari aplikasi, yang pada akhirnya akan digabungkan untuk membentuk aplikasi NotesApp yang berfungsi penuh.
 
 
